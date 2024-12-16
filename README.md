@@ -1,4 +1,4 @@
-# Arithmetic
+# Classes
 
 Classes for [Occam](https://occam.science).
 
