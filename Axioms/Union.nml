@@ -1,22 +1,8 @@
-Variable c
+Variable x
 
 Variable A:Class
 Variable B:Class
 
-Axiom (LeftUnionIntroduction)
-  Suppose
-    c ∈ A
-  Then
-    c ∈ A ∪ B
-
-Axiom (RightUnionIntroduction)
-  Suppose
-    c ∈ B
-  Then
-    c ∈ A ∪ B
-
-Axiom (UnionElimination)
-  Suppose
-    c ∈ A ∪ B
-  Then
-    c ∈ A ∨ c ∈ B
+Axiom (UnionOfClasses)
+  (x ∈ A ∪ B) iff (x ∈ A ∨ x ∈ B)
+    

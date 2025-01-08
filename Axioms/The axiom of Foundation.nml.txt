@@ -1,2 +1,0 @@
-Axiom (Foundation,TheAxiomOfFoundation)
-  ∀C C ∉ C

@@ -1,14 +1,10 @@
-Variable c
+Variable x
+
 Variable C:Class
 
-Axiom (ElementOfIntroduction)
-  Suppose
-    c is an element of C
-  Then
-    c ∈ C
+Axiom (AnElementOf)
+  x is an element of C iff x ∈ C    
 
-Axiom (NotElementOfIntroduction)
-  Suppose
-    ¬(c is an element of C)
-  Then
-    c ∉ C
+Axiom (NotAnElementOf)
+  ¬(x is an element of C) iff x ∉ C
+    

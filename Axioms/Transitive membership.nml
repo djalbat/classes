@@ -1,0 +1,6 @@
+Variable A:Class
+Variable B:Class
+Variable C:Class
+
+Axiom (TransitiveMembership)
+  (A ∈⁺ B) iff ((A ∈ B) ∨ (∃C (A ∈ C) ∧ (C ∈⁺ B)))
