@@ -1,0 +1,18 @@
+Variable C:Class
+
+Variable e
+
+Axiom (ElementOfInfersMembership)
+  Suppose
+    e is an element of C
+  Then
+    e ∈ C
+
+Axiom (NotElementOfInfersNonMembership)
+  Suppose
+    ¬(e is an element of C)
+  Then
+    e ∉ C
+
+Axiom (Foundation)
+  ∀C C ∉ C
