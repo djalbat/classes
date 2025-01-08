@@ -1,4 +1,7 @@
 
 
-                        term  ::=  "∅" ;
+                        term  ::=  argument ( "∩" | "∪" ) argument
 
+                                |  "∅" 
+
+                                ;

@@ -1,18 +1,14 @@
+Variable c
 Variable C:Class
 
-Variable e
-
-Axiom (ElementOfInfersMembership)
+Axiom (ElementOfIntroduction)
   Suppose
-    e is an element of C
+    c is an element of C
   Then
-    e ∈ C
+    c ∈ C
 
-Axiom (NotElementOfInfersNonMembership)
+Axiom (NotElementOfIntroduction)
   Suppose
-    ¬(e is an element of C)
+    ¬(c is an element of C)
   Then
-    e ∉ C
-
-Axiom (Foundation)
-  ∀C C ∉ C
+    c ∉ C

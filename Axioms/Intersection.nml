@@ -1,0 +1,17 @@
+Variable c
+
+Variable A:Class
+Variable B:Class
+
+Axiom (IntersectionIntroduction)
+  Suppose
+    c ∈ A
+    c ∈ B
+  Then
+    c ∈ A ∩ B
+
+Axiom (IntersectionElimination)
+  Suppose
+    c ∈ A ∩ B
+  Then
+    c ∈ A ∧ c ∈ B
