@@ -5,4 +5,3 @@ Variable B:Class
 
 Axiom (UnionOfClasses)
   (x ∈ A ∪ B) iff (x ∈ A ∨ x ∈ B)
-    

@@ -1,4 +1,0 @@
-Variable C:Class
-
-Axiom (RussionDoll)
-  ∀C ¬(C ∈⁺ C)
