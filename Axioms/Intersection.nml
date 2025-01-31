@@ -1,7 +1,6 @@
-Variable x
-
 Variable A:Class
 Variable B:Class
+Variable x:Element
 
 Axiom (IntersectionOfClasses)
   (x ∈ A ∩ B) iff (x ∈ A ∧ x ∈ B)
