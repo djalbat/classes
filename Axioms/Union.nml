@@ -1,6 +1,6 @@
-Variable b:𝗖𝗹𝗮𝘀𝘀
-Variable c:𝗖𝗹𝗮𝘀𝘀
-Variable x:𝗘𝗹𝗲𝗺𝗲𝗻𝘁
+Variable b:𝖢𝗅𝖺𝗌𝗌
+Variable c:𝖢𝗅𝖺𝗌𝗌
+Variable x:𝖤𝗅𝖾𝗆𝖾𝗇𝗍
 
 Axiom (UnionOfClasses)
   (x ∈ b ∪ c) 𝘪𝘧𝘧 (x ∈ b ∨ x ∈ c)
