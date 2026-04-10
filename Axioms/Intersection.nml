@@ -3,4 +3,4 @@ Variable c:𝖢𝗅𝖺𝗌𝗌
 Variable x:𝖤𝗅𝖾𝗆𝖾𝗇𝗍
 
 Axiom (IntersectionOfClasses)
-  (x ∈ b ∩ c) 𝘪𝘧𝘧 (x ∈ b ∧ x ∈ c)
+  (x ∈ b ∩ c) 𝗂𝖿𝖿 (x ∈ b ∧ x ∈ c)
